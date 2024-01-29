@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Visual Studio temporary files
+*.vs/
+bin/
+obj/
+obj/Debug/
+packages/
+*.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Other temporary files
+[Tt]mp/
+/SimpleFileCopy/obj/Debug/DesignTimeResolveAssemblyReferences.cache
